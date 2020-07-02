@@ -7,24 +7,12 @@ Realice una aplicación de peliculas y series, la cual realice utilizando una *[
   _MovieApp está realizada con lo siguiente:_
 
 * [NodeJs](https://nodejs.org/es/) - Es un entorno de ejecución para JavaScript construido con el motor de JavaScript V8 de Chrome.
-* [babel/core]() - 
-* [@babel/preset-env]() - 
-* [@babel/preset-react]() - 
-* [babel-loader]() - 
-* [bootswatch]() - 
-* [css-loader]() - 
-* [dotenv-webpack]() - 
-* [eslint]() - 
-* [eslint-loader]() - 
-* [eslint-plugin-react]() - 
-* [html-webpack-plugin]() - 
-* [prop-types]() - 
-* [react]() - 
-* [react-dom]() - 
-* [style-loader]() - 
-* [webpack]() - 
-* [webpack-cli]() - 
-* [webpack-dev-server]() - 
+* [webpack](https://webpack.js.org/) - Es una herramienta que permite compilar el codigo de javascript, tomar archivos de html, procesar archivos de css, es como
+un administrador de tareas del frontend y webpack se encarga de tomar todos esos archivos y convertirlos en una sola aplicación.
+* [@babel/core](https://babeljs.io/docs/en/babel-core) - Utilizo babel para que traduzca codigo de JavaScript.
+* [@babel/preset-react](https://babeljs.io/docs/en/babel-preset-react) - 
+* [babel-loader](https://www.npmjs.com/package/babel-loader/v/8.0.0-beta.1) - 
+* [bootswatch](https://bootswatch.com/) - 
 
 #### Instalación 🔧
 
