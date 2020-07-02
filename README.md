@@ -40,3 +40,5 @@ npm start
 ```
 
 #### _Demo_
+![MovieApp1](https://user-images.githubusercontent.com/54491030/86402830-e14e5900-bc82-11ea-855c-6ac97a85da54.gif)
+
