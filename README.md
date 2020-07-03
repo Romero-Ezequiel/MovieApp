@@ -12,17 +12,17 @@ un administrador de tareas del frontend y webpack se encarga de tomar todos esos
 * [@babel/core](https://babeljs.io/docs/en/babel-core) - Utilizo babel para que traduzca codigo de JavaScript.
 * [@babel/preset-react](https://babeljs.io/docs/en/babel-preset-react) - 
 * [babel-loader](https://www.npmjs.com/package/babel-loader/v/8.0.0-beta.1) - 
-* [bootswatch](https://bootswatch.com/) - 
+* [bootswatch](https://bootswatch.com/) - Lo utilice para realizar algunos estilos.
 
 #### Instalación 🔧
 
-_Para la instalación del proyecto del login, se tiene que ejecutar en la consola el siguiente comando: Para poder descargar
+_Para la instalación del proyecto del peliculas, se tiene que ejecutar en la consola el siguiente comando: Para poder descargar
 todas las dependencias y modulos que utilice._ 
 ```
 npm install
 ```
 
-_Por ultimo para visualizar el proyecto del login se tiene que ejecutar el siguiente comando:_
+_Por ultimo para visualizar el proyecto se tiene que ejecutar el siguiente comando:_
 ```
 npm start
 ```
