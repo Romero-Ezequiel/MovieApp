@@ -11,7 +11,6 @@ Realice una aplicación de peliculas y series, la cual realice utilizando una *[
 un administrador de tareas del frontend y webpack se encarga de tomar todos esos archivos y convertirlos en una sola aplicación.
 * [@babel/core](https://babeljs.io/docs/en/babel-core) - Utilizo babel para que traduzca codigo de JavaScript.
 * [@babel/preset-react](https://babeljs.io/docs/en/babel-preset-react) - 
-* [babel-loader](https://www.npmjs.com/package/babel-loader/v/8.0.0-beta.1) - 
 * [bootswatch](https://bootswatch.com/) - Lo utilice para realizar algunos estilos.
 * [API](http://www.omdbapi.com/) - Está API utilice para consumir los datos.
 
